@@ -1,5 +1,5 @@
-## Hey Folks 👋👋👋
-👨‍💻 JavaScript Developer | 🎨 Frontend Specialist | 🌌 WebGL & Motion Effects Enthusiast
+## Hey Folks 👋👋👋 I,M Saad Raza
+👨‍💻 A JavaScript Developer | 🎨 Frontend Specialist | 🌌 WebGL & Motion Effects Enthusiast
 
 I’m a passionate JavaScript developer who loves bringing creative ideas to life with frontend magic. My expertise lies in building interactive, visually stunning web experiences using WebGL, GSAP, and modern JavaScript frameworks.
 
