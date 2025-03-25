@@ -1,5 +1,27 @@
 ## Hey Folks 👋👋👋
-sssssssssssssssssss
+👨‍💻 JavaScript Developer | 🎨 Frontend Specialist | 🌌 WebGL & Motion Effects Enthusiast
+
+I’m a passionate JavaScript developer who loves bringing creative ideas to life with frontend magic. My expertise lies in building interactive, visually stunning web experiences using WebGL, GSAP, and modern JavaScript frameworks.
+
+I thrive on R&D within the JavaScript ecosystem, constantly exploring new tools, libraries, and techniques to push the boundaries of web development. Whether it’s crafting fluid animations, 3D interactions, or smooth UI/UX, I’m always up for an exciting challenge!
+
+💡 Tech Stack:
+⚡ JavaScript | ⚛️ React | 🎭 Three.js | 🎨 GSAP | 🌊 WebGL
+
+
+🎯 What I Love to Work On
+🔹 Creative Web Experiences – Blending code & design to create engaging, interactive sites
+🔹 Motion Effects & Animations – Making the web feel alive with GSAP, WebGL, and SVG animations
+🔹 R&D & Experimentation – Constantly testing new JavaScript frameworks & libraries
+🔹 Performance Optimization – Ensuring smooth, fast-loading experiences
+
+I believe frontend development is an art, and I enjoy experimenting with new technologies to build unique, high-performance web experiences.
+
+🔥 Some Fun Facts About Me
+🎮 Gaming Enthusiast – I love exploring game physics & WebGL-based game dev
+🎧 Music & Code – Coding while listening to rock music beats 🎵
+🧪 Always Experimenting – Whether it’s shaders, AI-based animations, or 3D interactions, I’m always building something cool!
+
 <!--
 **Saad96Raza/Saad96Raza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
